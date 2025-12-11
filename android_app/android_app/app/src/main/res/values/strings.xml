@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Fresh Scan</string>
+    <string name="save_photo">Save photo</string>
+    <string name="select_fruit">Select Fruit</string>
+    <string name="apple">Apple</string>
+    <string name="guava">Guava</string>
+    <string name="mango">Mango</string>
+    <string name="strawberry">Strawberry</string>
+    <string name="fruit_icon">Fruit icon</string>
+    <string name="scan_history">Scan History</string>
+    <string name="shelf_life">Shelf Life</string>
+    <string name="fresh">Fresh</string>
+    <string name="rotten">Rotten</string>
+    <string name="days">days</string>
+    <string name="no_scan_history">No scan history yet</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="settings">Settings</string>
+    <string name="rescan">Rescan</string>
+    <string name="profile">Profile</string>
+    <string name="notifications">Notifications</string>
+    <string name="language">Language</string>
+    <string name="theme">Theme</string>
+    <string name="storage">Storage</string>
+    <string name="camera_quality">Camera Quality</string>
+    <string name="auto_detection">Auto Detection</string>
+    <string name="help_and_support">Help &amp; Support</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="clear_all_data">Clear All Data</string>
+    <string name="title_settings">Settings</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android_app/app/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/android_app/app/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/android_app.iml" filepath="$PROJECT_DIR$/.idea/android_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_app/app/build/generated/data_binding_base_class_source_out/debug/debug.iml" filepath="$PROJECT_DIR$/android_app/app/build/generated/data_binding_base_class_source_out/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_app/app/src/main/main.iml" filepath="$PROJECT_DIR$/android_app/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_app/app/build/intermediates/merged_manifest/debug/processDebugMainManifest/processDebugMainManifest.iml" filepath="$PROJECT_DIR$/android_app/app/build/intermediates/merged_manifest/debug/processDebugMainManifest/processDebugMainManifest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_app/app/build/intermediates/merged_manifests/debug/processDebugManifest/processDebugManifest.iml" filepath="$PROJECT_DIR$/android_app/app/build/intermediates/merged_manifests/debug/processDebugManifest/processDebugManifest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_app/app/build/intermediates/packaged_manifests/debug/processDebugManifestForPackage/processDebugManifestForPackage.iml" filepath="$PROJECT_DIR$/android_app/app/build/intermediates/packaged_manifests/debug/processDebugManifestForPackage/processDebugManifestForPackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_app/app/build/intermediates/merged_manifest/release/processReleaseMainManifest/processReleaseMainManifest.iml" filepath="$PROJECT_DIR$/android_app/app/build/intermediates/merged_manifest/release/processReleaseMainManifest/processReleaseMainManifest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_app/app/build/intermediates/merged_manifests/release/processReleaseManifest/processReleaseManifest.iml" filepath="$PROJECT_DIR$/android_app/app/build/intermediates/merged_manifests/release/processReleaseManifest/processReleaseManifest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_app/app/build/intermediates/packaged_manifests/release/processReleaseManifestForPackage/processReleaseManifestForPackage.iml" filepath="$PROJECT_DIR$/android_app/app/build/intermediates/packaged_manifests/release/processReleaseManifestForPackage/processReleaseManifestForPackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_app/app/build/generated/data_binding_base_class_source_out/release/release.iml" filepath="$PROJECT_DIR$/android_app/app/build/generated/data_binding_base_class_source_out/release/release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_app/app/src/test/test.iml" filepath="$PROJECT_DIR$/android_app/app/src/test/test.iml" />
+    </modules>
+  </component>
+</project>

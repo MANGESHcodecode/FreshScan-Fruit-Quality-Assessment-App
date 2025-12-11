@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Guava body -->
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M60,25 C50,25 40,35 40,50 C40,65 45,75 55,80 C55,85 55,90 55,95 C55,105 57,110 60,110 C63,110 65,105 65,95 C65,90 65,85 65,80 C75,75 80,65 80,50 C80,35 70,25 60,25 Z" />
+    <!-- Guava highlight -->
+    <path
+        android:fillColor="#FFCC80"
+        android:pathData="M50,40 C52,38 55,37 60,37 C65,37 68,38 70,40 C68,39 65,38 60,38 C55,38 52,39 50,40 Z" />
+    <!-- Guava seeds pattern -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M55,60 m-2,0 a2,2 0,1 1,4 0 a2,2 0,1 1,-4 0" />
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M60,65 m-2,0 a2,2 0,1 1,4 0 a2,2 0,1 1,-4 0" />
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M65,60 m-2,0 a2,2 0,1 1,4 0 a2,2 0,1 1,-4 0" />
+</vector>
+

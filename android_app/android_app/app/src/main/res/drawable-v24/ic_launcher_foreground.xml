@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Scanner lines -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,40 L88,40 L88,44 L20,44 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,64 L88,64 L88,68 L20,68 Z" />
+    
+    <!-- Fresh leaf icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,20 C54,20 40,30 40,44 C40,52 46,58 54,58 C62,58 68,52 68,44 C68,30 54,20 54,20 Z" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,24 C54,24 44,32 44,44 C44,50 48,54 54,54 C60,54 64,50 64,44 C64,32 54,24 54,24 Z" />
+    
+    <!-- Scan indicator dots (using paths for circles) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,42 m-2,0 a2,2 0,1 1,4 0 a2,2 0,1 1,-4 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M76,42 m-2,0 a2,2 0,1 1,4 0 a2,2 0,1 1,-4 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,66 m-2,0 a2,2 0,1 1,4 0 a2,2 0,1 1,-4 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M76,66 m-2,0 a2,2 0,1 1,4 0 a2,2 0,1 1,-4 0" />
+</vector>

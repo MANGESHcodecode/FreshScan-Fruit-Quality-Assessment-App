@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="28" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.YOLOv8TfLite"
+        tools:targetApi="31">
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.YOLOv8TfLite.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".UserTypeSelectionActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeDashboardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VendorDashboardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".StockManagementActivity"
+            android:exported="false"
+            android:parentActivityName=".VendorDashboardActivity" />
+        <activity
+            android:name=".DashboardActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"/>
+        <activity
+            android:name=".ScanHistoryActivity"
+            android:exported="false"
+            android:parentActivityName=".HomeDashboardActivity" />
+        <activity
+            android:name=".AnalysisReportActivity"
+            android:exported="false"
+            android:parentActivityName=".HomeDashboardActivity" />
+        <activity
+            android:name=".SettingsActivity"
+            android:exported="false"
+            android:parentActivityName=".HomeDashboardActivity" />
+    </application>
+
+</manifest>

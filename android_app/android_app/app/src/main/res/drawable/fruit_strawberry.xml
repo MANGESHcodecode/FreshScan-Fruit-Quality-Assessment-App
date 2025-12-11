@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <!-- Strawberry body -->
+    <path
+        android:fillColor="#F44336"
+        android:pathData="M60,30 C55,30 50,35 50,45 C50,55 52,65 55,75 C56,80 58,85 60,90 C62,85 64,80 65,75 C68,65 70,55 70,45 C70,35 65,30 60,30 Z" />
+    <!-- Strawberry seeds -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M55,50 m-1.5,0 a1.5,1.5 0,1 1,3 0 a1.5,1.5 0,1 1,-3 0" />
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M60,55 m-1.5,0 a1.5,1.5 0,1 1,3 0 a1.5,1.5 0,1 1,-3 0" />
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M65,50 m-1.5,0 a1.5,1.5 0,1 1,3 0 a1.5,1.5 0,1 1,-3 0" />
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M58,65 m-1.5,0 a1.5,1.5 0,1 1,3 0 a1.5,1.5 0,1 1,-3 0" />
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M62,70 m-1.5,0 a1.5,1.5 0,1 1,3 0 a1.5,1.5 0,1 1,-3 0" />
+    <!-- Strawberry leaves -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M60,30 C58,25 55,22 50,20 C52,22 54,25 56,28 C57,27 58,28 60,30 Z" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M60,30 C62,25 65,22 70,20 C68,22 66,25 64,28 C63,27 62,28 60,30 Z" />
+</vector>
+

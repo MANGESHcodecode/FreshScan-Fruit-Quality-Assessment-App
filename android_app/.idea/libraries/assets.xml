@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="assets">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android_app/app/build/intermediates/compressed_assets/release/compressReleaseAssets/out/assets/labels.txt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_app/app/build/intermediates/compressed_assets/release/compressReleaseAssets/out/assets/model.tflite.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
